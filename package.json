@@ -1,0 +1,9 @@
+{
+  "name": "WebPack",
+  "scripts": {
+    "build": "webpack"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
